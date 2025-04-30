@@ -1,0 +1,24 @@
+# Kлючи
+settings.py
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environment
+venv/
+env/
+.python-version
+
+# VS Code settings
+.vscode/
+.idea/
+
+# Бинарные/временные файлы
+*.swp
+*.bak
+*.tmp
+
+# macOS системные файлы
+.DS_Store
+
